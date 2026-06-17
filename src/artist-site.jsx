@@ -97,13 +97,13 @@ const BASE = "https://raw.githubusercontent.com/matyo-ai/matyo-media/main/";
 
 const TRACKS = [
   { id: 1,  title: "Pop-EDM",                           role: "Production / Rec / Mixing / Mastering",   src: BASE + "edm ref.mp3" },
-  { id: 2,  title: "Indy-pop",                          role: "Co-prod / Rec / Mixing / Mastering",      src: BASE + "indi ref.mp3" },
+  { id: 2,  title: "Indie-pop",                          role: "Co-prod / Rec / Mixing / Mastering",      src: BASE + "indi ref.mp3" },
   { id: 3,  title: "Matyo feat. CHOCOSLAYC — Swag tea", role: "Production / Rec / Mixing / Mastering",   src: BASE + "official prod feat1.mp3" },
   { id: 4,  title: "Matyo feat. CHOCOSLAYC — Peach tea",role: "Production / Rec / Mixing / Mastering",   src: BASE + "official prod feat2.mp3" },
   { id: 5,  title: "Matyo feat. CHOCOSLAYC — Dragon tea",role: "Production / Rec / Mixing / Mastering",  src: BASE + "official prod feat3.mp3" },
   { id: 6,  title: "Pop music",                         role: "Production / Rec / Mixing / Mastering",   src: BASE + "pop ref.mp3" },
   { id: 7,  title: "Pop-Punk",                          role: "Co-prod / Mixing / Mastering",            src: BASE + "rock ref.mp3" },
-  { id: 8,  title: "Punk-rock",                         role: "Co-prod / Rec / Mixing / Mastering",      src: BASE + "rock ref2.mp3" },
+  { id: 8,  title: "Alternative rock",                  role: "Production / Rec",                        src: BASE + "rock ref2.mp3" },
   { id: 9,  title: "Trap-EDM",                          role: "Production / Rec / Mixing / Mastering",   src: BASE + "trap ref .mp3" },
   { id: 10, title: "Trap",                              role: "Production / Rec / Mixing / Mastering",   src: BASE + "trap ref2.mp3" },
 ];
